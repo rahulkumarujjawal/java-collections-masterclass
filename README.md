@@ -13,7 +13,7 @@ Daily learning and practice of Java Collections Framework with theory, examples,
 - Vector
 - Stack
 - Set
-- HashSet
+- HashSetsl
 - TreeSet
 - Queue
 - PriorityQueue
@@ -40,4 +40,4 @@ Daily learning and practice of Java Collections Framework with theory, examples,
 
 ## Author
 
-RAHUL UJJAWAL
+RAHUL UJJAWAL SHARMA
